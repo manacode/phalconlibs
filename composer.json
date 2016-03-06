@@ -22,7 +22,7 @@
         "manacode/manafx": "Mana Application Framework"
     },
     "autoload": {
-        "psr-4": { "Manacode\\Phalcon\\": "phalconlibs/" }
+        "psr-4": { "Manacode\\Phalcon\\": "" }
     },
     "autoload-dev": {
         "psr-4": { "Manacode\\Phalcon\\Test\\": "tests/unit/" }
